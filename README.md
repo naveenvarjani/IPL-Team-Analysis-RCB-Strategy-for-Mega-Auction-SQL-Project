@@ -16,7 +16,8 @@ A SQL-driven data analysis project using IPL match and ball-by-ball datasets (20
 🎯 **Goal**: Identify player performance trends and recommend optimal retentions/acquisitions based on historical data.
 
 🖼️ **Entity Relationship Diagram**  
-embed/entity-relation-diagram.png
+![Entity Relationship Diagram](entity-relation-diagram.png)
+
 ---
 
 ## 🧰 Tools & Techniques Used
